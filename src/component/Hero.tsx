@@ -12,7 +12,7 @@ const Hero = () => {
             <h1 className='name'>Hello <br /> i am <br /> DANIA NIAZAM</h1>
         </div>
         <div className='btn2'>
-            <button className='bt1'><Link href="/about" className='bt-li'> About Me</Link></button>
+            <button className='bt1'><Link href="/About" className='bt-li'> About Me</Link></button>
             <button className='bt1'><Link href="/contact" className='bt-li'>Contact Me</Link></button>
         </div>
 
