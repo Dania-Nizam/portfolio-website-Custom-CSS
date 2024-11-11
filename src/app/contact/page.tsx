@@ -10,8 +10,8 @@ const contact = () => {
           </div>
           <div>
             <div>
-              <div className="p-2 w-1/2">
-                <div className="relative">
+              <div >
+                <div >
                   <label htmlFor="name" className="label">
                     Name
                   </label>
@@ -22,8 +22,8 @@ const contact = () => {
                   ></textarea>
                 </div>
               </div>
-              <div className="p-2 w-1/2">
-                <div className="relative">
+              <div >
+                <div>
                   <label htmlFor="email" className="label">
                     Email
                   </label>
@@ -34,8 +34,8 @@ const contact = () => {
                   ></textarea>
                 </div>
               </div>
-              <div className="p-2 w-full">
-                <div className="relative">
+              <div >
+                <div >
                   <label htmlFor="message" className="label">
                     Message
                   </label>
@@ -46,7 +46,7 @@ const contact = () => {
                   ></textarea>
                 </div>
               </div>
-              <div className="p-2 w-full">
+              <div >
                 <button className="button">Button</button>
               </div>
               
