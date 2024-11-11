@@ -1,8 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import { FaDiscord, FaInstagram, FaLinkedin } from 'react-icons/fa'
-import { FaGithub } from 'react-icons/fa'
-import { FaFacebook } from 'react-icons/fa'
+
 const About = () => {
   return (
     <div>
@@ -11,11 +9,11 @@ const About = () => {
         <h2></h2>
         <p></p>
 <div className='btn3'>
-  <button className='bt2'><FaLinkedin  /></button>
-  <button className='bt2'><FaGithub /></button>
-  <button  className='bt2' > <FaInstagram/></button>
-  <button className='bt2'><FaFacebook/> </button>
-  <button className='bt2'><FaDiscord/> </button>
+  <button className='bt2'></button>
+  <button className='bt2'></button>
+  <button  className='bt2' ></button>
+  <button className='bt2'> </button>
+  <button className='bt2'></button>
 </div>
 <Skills/>
     </div>
