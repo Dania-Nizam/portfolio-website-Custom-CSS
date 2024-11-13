@@ -4,25 +4,26 @@ const contact = () => {
   return (
     <div>
       <section className=" contact-div">
-        <div >
+        <div>
           <div>
             <h1 className="contact-us">Contact Us</h1>
           </div>
           <div>
             <div>
-              <div >
-                <div >
+              <div>
+                <div>
                   <label htmlFor="name" className="label">
                     Name
                   </label>
                   <textarea
                     name="name"
                     id="name"
+                    placeholder="Enter your Name"
                     className="textarea"
                   ></textarea>
                 </div>
               </div>
-              <div >
+              <div>
                 <div>
                   <label htmlFor="email" className="label">
                     Email
@@ -34,8 +35,8 @@ const contact = () => {
                   ></textarea>
                 </div>
               </div>
-              <div >
-                <div >
+              <div>
+                <div>
                   <label htmlFor="message" className="label">
                     Message
                   </label>
@@ -46,10 +47,9 @@ const contact = () => {
                   ></textarea>
                 </div>
               </div>
-              <div >
+              <div>
                 <button className="button">Button</button>
               </div>
-              
             </div>
           </div>
         </div>

@@ -14,9 +14,9 @@ const Project = () => {
             <h3 className='card-h'>Count Down Timer</h3>
             <p className='card-p'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus aperiam sunt omnis id sint rerum harum eos maxime. Ab temporibus nihil, vel nam ex modi cum tenetur corrupti. Ducimus, officia?</p>
             <div className='tag-btn'>
-                <button className='tag'>Next JS</button>
-                <button className='tag'>Typescript</button>
-                <button className='tag'>Tailwind CSS</button>
+                <button className='tag1'>Next JS</button>
+                <button className='tag3'>Typescript</button>
+                <button className='tag4'>Tailwind CSS</button>
             </div>
         </div>
 
@@ -25,9 +25,9 @@ const Project = () => {
             <h3 className='card-h'>Weather App</h3>
             <p className='card-p'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus aperiam sunt omnis id sint rerum harum eos maxime. Ab temporibus nihil, vel nam ex modi cum tenetur corrupti. Ducimus, officia?</p>
             <div className='tag-btn'>
-                <button className='tag'>Next JS</button>
-                <button className='tag'>Typescript</button>
-                <button className='tag'>Tailwind CSS</button>
+                <button className='tag1'>Next JS</button>
+                <button className='tag3'>Typescript</button>
+                <button className='tag4'>Tailwind CSS</button>
             </div>
         </div>
 
@@ -36,9 +36,9 @@ const Project = () => {
             <h3 className='card-h'>Resume Builder</h3>
             <p className='card-p'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus aperiam sunt omnis id sint rerum harum eos maxime. Ab temporibus nihil, vel nam ex modi cum tenetur corrupti. Ducimus, officia?</p>
             <div className='tag-btn'>
-                <button className='tag'>Html</button>
-                <button className='tag'>Typescript</button>
-                <button className='tag'>Tailwind CSS</button>
+                <button className='tag2'>Html</button>
+                <button className='tag3'>Typescript</button>
+                <button className='tag4'>Tailwind CSS</button>
             </div>
         </div>
 
@@ -47,10 +47,10 @@ const Project = () => {
             <h3 className='card-h'>Figma design</h3>
             <p className='card-p'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus aperiam sunt omnis id sint rerum harum eos maxime. Ab temporibus nihil, vel nam ex modi cum tenetur corrupti. Ducimus, officia?</p>
             <div className='tag-btn'>
-                <button className='tag'>Next JS</button>
-                <button className='tag'>Html</button>
-                <button className='tag'>Tailwind CSS</button>
-                <button className='tag'>Figma</button>
+                <button className='tag1'>Next JS</button>
+                <button className='tag2'>Html</button>
+                <button className='tag4'>Tailwind CSS</button>
+                <button className='tag5'>Figma</button>
             </div>
         </div>
 
@@ -59,10 +59,10 @@ const Project = () => {
             <h3 className='card-h'>Resume Builder</h3>
             <p className='card-p'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus aperiam sunt omnis id sint rerum harum eos maxime. Ab temporibus nihil, vel nam ex modi cum tenetur corrupti. Ducimus, officia?</p>
             <div className='tag-btn'>
-                <button className='tag'>Html</button>
-                <button className='tag'>Typescript</button>
-                <button className='tag'>CSS</button>
-                <button className='tag'>JAVASCRIPT</button>
+                <button className='tag2'>Html</button>
+                <button className='tag3'>Typescript</button>
+                <button className='tag4'>CSS</button>
+                <button className='tag6'>JAVASCRIPT</button>
             </div>
         </div>
     </div>
